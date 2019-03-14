@@ -18,6 +18,7 @@
 * Add Cumin/Coriender Powder
 * Red Chilli Powder
 * Salt to taste
+* Pinch of Turmeric
 * Add Achar masala (Optional)
 * Blow 2-3 Whistle
 * Rest cooker for 15min and you are done!
