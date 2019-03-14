@@ -1,4 +1,4 @@
-# Matar Paratha
+# Sweet Potato & Methi
 
 ## Photos
 
