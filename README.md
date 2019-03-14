@@ -1,7 +1,7 @@
 ## Lunch/Dinner - Standalone Items
 ### Quick Preparation (~30min)
-* [Matar Paratha](/MatarParatha.md)
+* [Matar Paratha](/Recipes/MatarParatha.md)
 
 ## Subji for Lunch 
 ### Quick Preparation (~30min)
-* [Sweet Potato & Methi](/SweetPotatoMethi.md)
+* [Sweet Potato & Methi](/Recipes/SweetPotatoMethi.md)
