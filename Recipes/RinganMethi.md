@@ -1,6 +1,7 @@
 # Ringan Methi
 
 ## Photos
+![RinganMethi](photos/RinganMethi1.jpg?raw=true "RinganMethi")
 
 ## Ingredients
 * Ringan (Brinjal)
