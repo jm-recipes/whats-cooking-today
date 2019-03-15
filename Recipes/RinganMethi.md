@@ -1,27 +1,29 @@
-# Sweet Potato & Methi
+# Ringan Methi
 
 ## Photos
 
 ## Ingredients
-* Sweet Potato
-* Green Methi
+* Ringan (Brinjal)
+* Green Methi (35-40% of Ringan Qty)
 * Coriander Leaves
 * Indian Spices 
 * Achar Masala (Optional)
+* Jaggery
 
 ## Recipe
 * Take a Cooker
 * Add Oil for Tempering
-* Add Mustard Seeds and Cumin Seeds
-* Add Sweet Potato (cut into any shape you wants)
-* Add Methi and Coriender (15-20% of Sweet Potato)
+* Add Cumin Seeds
+* Add Ringan (cut into dices)
+* Add Methi and Coriender
 * Add Cumin/Coriender Powder
 * Red Chilli Powder
 * Salt to taste
 * Add Achar masala (Optional)
+* Add little Jaggery
 * Blow 2-3 Whistle
 * Rest cooker for 15min and you are done!
 
 ## Serve with
+* Best with Khichdi
 * Tawa Rotli
-* Plain Rice
