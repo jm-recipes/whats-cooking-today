@@ -1,4 +1,4 @@
-# Matar Paratha
+# Instant Dosa Wrap - Suji
 
 ## Author 
 👩‍🍳 [@ZalakSa](https://github.com/ZalakSa)
