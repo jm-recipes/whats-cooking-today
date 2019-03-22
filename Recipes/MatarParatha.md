@@ -1,7 +1,7 @@
 # Matar Paratha
 
 ## Author 
-[@SubhamRa](https://github.com/SubhamRa)
+👨‍🍳 [@SubhamRa](https://github.com/SubhamRa)
 
 ## Photos
 _Coming Soon..._

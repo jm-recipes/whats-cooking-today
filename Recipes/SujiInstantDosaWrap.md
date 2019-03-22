@@ -1,7 +1,7 @@
 # Matar Paratha
 
 ## Author 
-[@ZalakSa](https://github.com/ZalakSa)
+👩‍🍳 [@ZalakSa](https://github.com/ZalakSa)
 
 ## Photos
 
