@@ -20,6 +20,7 @@
 * Salt to taste
 * Pinch of Turmeric
 * Add Achar masala (Optional)
+* Add about a glass of water for gravy.
 * Blow 2-3 Whistle
 * Rest cooker for 15min and you are done!
 
