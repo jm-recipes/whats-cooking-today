@@ -4,7 +4,9 @@
 👨‍🍳 [@jay2503](https://github.com/jay2503)
 
 ## Photos
-_Coming Soon..._
+![Manchurian](photos/Manchurian.jpg?raw=true "Manchurian")
+![Manchurian Cutting Technic](photos/ManchurianCuttingTechnic.mov "Manchurian Cutting Technic")
+![Manchurian Batter Consistency](photos/ManchurianBatterConsistency.MOV "Manchurian Batter Consistency")
 
 ## Ingredients
 * Cabbage
