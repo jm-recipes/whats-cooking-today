@@ -1,14 +1,10 @@
-## Lunch/Dinner - Standalone Items
-### Quick Preparation (~30min)
-* [Matar Paratha](/Recipes/MatarParatha.md) (👨‍🍳 [@SubhamRa](https://github.com/SubhamRa))
-* [Pizzeliya Sandwich](/Recipes/PizzeliyaSandwich.md) (👨‍🍳 [@jay2503](https://github.com/jay2503))
+## Collection of Delicious recipes (👨‍💻 Coders 👨‍🍳 Cooks!)
 
-## Dinner - Standalone Items
-### Quick Preparation (~1hr)
-* [Instant Dosa Wrap - Suji](/Recipes/SujiInstantDosaWrap.md) (👩‍🍳 [@ZalakSA](https://github.com/ZalakSA))
-* [Tawa Fry Pav Bhaji - Restaurant Style](/Recipes/TawaFryPavBhaji.md) (👨‍🍳 [@jay2503](https://github.com/jay2503))
-
-## Subji for Lunch 
-### Quick Preparation (~30min)
-* [Sweet Potato & Methi](/Recipes/SweetPotatoMethi.md) (👨‍🍳 [@jay2503](https://github.com/jay2503))
-* [Ringan Methi](/Recipes/RinganMethi.md) (👨‍🍳 [@jay2503](https://github.com/jay2503))
+| Recipe        | Author           |
+| ------------- |:-------------:| 
+| [Matar Paratha](/Recipes/MatarParatha.md)      | 👨‍🍳 [@SubhamRa](https://github.com/SubhamRa) | 
+| [Pizzeliya Sandwich](/Recipes/PizzeliyaSandwich.md)      | 👨‍🍳 [@jay2503](https://github.com/jay2503)      |   
+| [Manchurian](/Recipes/Manchurian.md) | 👨‍🍳 [@jay2503](https://github.com/jay2503)      |    
+| [Tawa Fry Pav Bhaji - Restaurant Style](/Recipes/TawaFryPavBhaji.md) | 👨‍🍳 [@jay2503](https://github.com/jay2503)      |    
+| [Sweet Potato & Methi](/Recipes/SweetPotatoMethi.md) |  👨‍🍳 [@jay2503](https://github.com/jay2503)      |    
+| [Ringan Methi](/Recipes/RinganMethi.md) |   👨‍🍳 [@jay2503](https://github.com/jay2503)      |    
