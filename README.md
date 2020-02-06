@@ -8,3 +8,4 @@
 | [Tawa Fry Pav Bhaji - Restaurant Style](/Recipes/TawaFryPavBhaji.md) | 👨‍🍳 [@jay2503](https://github.com/jay2503)      |    
 | [Sweet Potato & Methi](/Recipes/SweetPotatoMethi.md) |  👨‍🍳 [@jay2503](https://github.com/jay2503)      |    
 | [Ringan Methi](/Recipes/RinganMethi.md) |   👨‍🍳 [@jay2503](https://github.com/jay2503)      |    
+| [Cheesy Egg Curry](/Recipes/CheesyEggCurry.md) |   👨‍🍳 [@jay2503](https://github.com/jay2503)      |    
