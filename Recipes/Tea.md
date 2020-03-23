@@ -2,6 +2,8 @@
 
 ## Photos
 
+![Tea](photos/Tea.jpeg?raw=true "Tea")
+
 ## Serves 
 1 Cup
 
