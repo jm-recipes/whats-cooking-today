@@ -5,7 +5,7 @@
 👨‍🍳 [@jay2503](https://github.com/jay2503)
 
 ## Photos
-![EggCurry](photos/EggCurry.jpg?raw=true "EggCurry")
+![SpVegPanjabiSabji](photos/SpVegPanjabiSabji.jpg?raw=true "Sp. Panjabi Veg. Sabji")
 
 ## Ingredients
 Ingredient | Qty | Chooping Style
