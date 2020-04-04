@@ -21,7 +21,7 @@ Salt | to taste | --
 ## Recipe
 * Take oil in a Tapeli(Utensil)
 * Saute Cumin and Chilli
-* Add water, hit until it boils
+* Add water, heat until it boils
 * Add Salt in between, Add Chilli powder
 * Add flour and keep mixing continuously, ensure no lumps (won't take more than a minute to mix it well)
 * Super Delicious Khichu is ready to serve
