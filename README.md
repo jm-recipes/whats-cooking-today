@@ -11,3 +11,4 @@
 | [Cheesy Egg Curry](/Recipes/CheesyEggCurry.md) |   👨‍🍳 [@jay2503](https://github.com/jay2503)      |    
 | [Tea](/Recipes/Tea.md) |   👨‍🍳 [@jay2503](https://github.com/jay2503)      |    
 | [Special Panjabi Veg. Sabji](/Recipes/SpVegPanjabiSabji.md) |   👨‍🍳 [@jay2503](https://github.com/jay2503)      |    
+| [Wheat flour Khichu](/Recipes/WheatKhichu.md) |   👨‍🍳 [@jay2503](https://github.com/jay2503)      |    
