@@ -12,7 +12,7 @@
 * 10% Water in propotion of Milk
 * Tea - 1 tea Spoon 
 * Sugar - 0 Spoon (I suggest to go with sugerless for best taste and health)
-* Ginger - 1 inch
+* Ginger - 0.5 inch
 
 ## Recipe
 * Take a Vessel for tea making
