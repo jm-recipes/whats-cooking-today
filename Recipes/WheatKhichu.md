@@ -15,6 +15,7 @@ Oil | 2 Spoon  | --
 Chilli | 1 | [Brunoise(fine)](https://crushmag-online.com/wp-content/uploads/2017/08/marcedoine_1000x400.jpg)
 Cumin | 0.5 Spoon  | --
 Red Chilli Powder | 1 spoon | --
+Cooking Soda | 1 pinch | --
 Salt | to taste | --
 
 
@@ -22,7 +23,7 @@ Salt | to taste | --
 * Take oil in a Tapeli(Utensil)
 * Saute Cumin and Chilli
 * Add water, heat until it boils
-* Add Salt in between, Add Chilli powder
+* Add Salt in between, Add Chilli powder & Cooking Soda
 * Add flour and keep mixing continuously, ensure no lumps (won't take more than a minute to mix it well)
 * Super Delicious Khichu is ready to serve
 
